@@ -1,7 +1,13 @@
 body {
   background-color: bisque;
 }
-  h2, h3, p {
+h2 {
+   text-align: center;
+}
+h3 {
+   text-align: center;
+}
+ p {
     text-align: center;
  }
   p.one {
@@ -20,3 +26,6 @@ body {
     border: 3px solid #black;
     padding: 10px;
   }
+  .monospace {
+  font-family: Lucida Console, "Courier", monospace;
+}
