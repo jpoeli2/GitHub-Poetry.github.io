@@ -10,13 +10,6 @@ h2 {
 h3 {
   align-content: center;
 }
-div.a {
-  width: 500px;
-  height: 400px;
-  align-content: right;
-}
-div.b {
-  width: 500px;
-  height: 400px;
-  align-content: left;
+img {
+  align-content: center;
 }
