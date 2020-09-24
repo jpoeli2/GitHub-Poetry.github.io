@@ -34,15 +34,12 @@ p {
   }*/
   .right {
     float: right;
-    width: 300px;
-    border: 3px solid #black;
-    padding: 10px;
+    margin: auto;
+    border: 30px solid #000000;
   }
   .left {
     float: left;
-    width: 300px;
-    border: 3px solid #black;
-    padding: 10px;
+    border: 30px solid #000000;
   }
   .Merienda {
   font-family: 'Merienda', cursive;
