@@ -1,15 +1,19 @@
 body {
   background-color: bisque;
 }
-p {
-  align-content: center;
+.center {
+  text-align: center;
+  border: 3px solid green;
 }
-h2 {
-  align-content: center;
-}
-h3 {
-  align-content: center;
-}
-img {
-  align-content: center;
+  p.one {
+    border-style: double;
+    border-color: black;
+  }
+div.a  {
+    display: block;
+    margin-left: auto;
+  }
+div.b {
+      display: block;
+      margin-right: auto;
 }
