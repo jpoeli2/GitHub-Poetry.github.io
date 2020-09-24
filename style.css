@@ -1,5 +1,5 @@
 body {
-  background-color: bisque;
+  background-color: #fff2e6;
 }
 h2 {
    text-align: center;
@@ -19,12 +19,19 @@ h3 {
 p {
   font-size: 600px;
 }
-  p.one {
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #000000;
+  padding: 10px;
+  border-style: double;
+}
+  /*p.one {
     width: 300px;
     border-style: double;
     border-color: black;
     padding: 10px;
-  }
+  }*/
   .right {
     float: right;
     width: 300px;
