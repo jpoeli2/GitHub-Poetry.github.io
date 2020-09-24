@@ -10,9 +10,20 @@ h3 {
  p {
     text-align: center;
  }
+ h2 {
+  font-size: 80px;
+}
+h3 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
   p.one {
+    width: 300px;
     border-style: double;
     border-color: black;
+    padding: 10px;
   }
   .right {
     float: right;
@@ -26,6 +37,15 @@ h3 {
     border: 3px solid #black;
     padding: 10px;
   }
-  .monospace {
-  font-family: Lucida Console, "Courier", monospace;
+  .Merienda {
+  font-family: 'Merienda', cursive;
+}
+.Anton {
+font-family: 'Anton', sans-serif;
+}
+.Abril {
+font-family: 'Abril Fatface', cursive;
+}
+img {
+  border: 5px solid #black;
 }
