@@ -1,19 +1,22 @@
 body {
   background-color: bisque;
 }
-.center {
-  text-align: center;
-  border: 3px solid green;
-}
+  h2, h3, p {
+    text-align: center;
+ }
   p.one {
     border-style: double;
     border-color: black;
   }
-div.a  {
-    display: block;
-    margin-left: auto;
+  .right {
+    float: right;
+    width: 300px;
+    border: 3px solid #black;
+    padding: 10px;
   }
-div.b {
-      display: block;
-      margin-right: auto;
-}
+  .left {
+    float: left;
+    width: 300px;
+    border: 3px solid #black;
+    padding: 10px;
+  }
