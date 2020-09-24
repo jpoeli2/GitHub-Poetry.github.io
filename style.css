@@ -21,9 +21,9 @@ p {
 }
 .center {
   margin: auto;
-  width: 100%;
-  border: 10px solid #000000;
-  padding: 10px;
+  width: 70%;
+  border: 50px solid #000000;
+  padding: 30px;
   border-style: double;
 }
   /*p.one {
