@@ -11,13 +11,13 @@ h3 {
     text-align: center;
  }
  h2 {
-  font-size: 60px;
+  font-size: 80px;
 }
 h3 {
-  font-size: 50px;
+  font-size: 70px;
 }
 p {
-  font-size: 15px;
+  font-size: 55px;
 }
 .center {
   margin: auto;
@@ -34,12 +34,9 @@ p {
   }*/
   .right {
     float: right;
-    margin: auto;
-    border: 30px solid #000000;
   }
   .left {
     float: left;
-    border: 30px solid #000000;
   }
   .Merienda {
   font-family: 'Merienda', cursive;
